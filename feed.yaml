@@ -38,3 +38,9 @@ item:
     file: /audio/TFIT05.mp3
     duration: 00:00:22
     length: 352,587
+  - title: EP06-MLOps
+    description: MLOps is a greate Technology.
+    published: Thu, 13 Jul 2025 18:00:00 GMT
+    file: /audio/TFIT05.mp3
+    duration: 00:10:00
+    length: 500,500
